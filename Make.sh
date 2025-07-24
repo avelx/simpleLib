@@ -1,0 +1,1 @@
+go build -v -o simplelib.so -buildmode=c-shared simplelib.go
